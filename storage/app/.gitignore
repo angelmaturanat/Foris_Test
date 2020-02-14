@@ -1,0 +1,4 @@
+*
+!public/
+!students_data.txt
+!.gitignore

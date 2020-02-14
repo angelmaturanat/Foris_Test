@@ -1,0 +1,6 @@
+Student Marco
+Student David
+Student Fran
+Presence Marco 1 2020-02-10 09:02 10:17 R100
+Presence Marco 3 2020-02-12 10:58 12:05 R205
+Presence David 5 2020-02-14 14:02 15:46 F505
